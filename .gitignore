@@ -99,3 +99,5 @@ build-iPhoneSimulator/
 
 # dotenv
 /.envrc
+# Ignore Spring files.
+/spring/*.pid
